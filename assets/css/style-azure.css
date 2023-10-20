@@ -3125,7 +3125,7 @@ ul.progress-info { display: flex; justify-content: space-between; }
 
 .preloader { position: fixed !important; top: 0; left: 0; right: 0; bottom: 0; z-index: 10000; }
 
-.preloader:before, .preloader:after { position: absolute; left: 0; height: 100%; width: 100%; transition: all .6s ease; background: #fff; content: ''; }
+.preloader:before, .preloader:after { position: absolute; left: 0; height: 100%; width: 100%; transition: all .6s ease; background:#46C7F4; content: ''; }
 
 .preloader:before { top: 0; }
 
