@@ -612,6 +612,7 @@ h6, .h6, .fz-6 { font-size: 0.94rem; }
 
 .bg-theme-dark { background-color: #15257b !important; }
 .bg-zonecta-dark { background-color: #0270AF !important; }
+.bg-zonecta-claro { background-color: #46C7F4 !important; }
 
 .bg-theme-dark.current { background-color: rgba(21, 37, 123, 0.7) !important; }
 
