@@ -6832,7 +6832,7 @@ ul.progress-info { display: flex; justify-content: space-between; }
 
 @media (min-width: 375px) { .header-navbar:not(.header-navbar-classic) { left: 0px; width: 290px; } }
 
-@media (min-width: 576px) { .header-navbar:not(.header-navbar-classic) { left: -360px; width: 340px; } }
+@media (min-width: 576px) { .header-navbar:not(.header-navbar-classic) { left: -60px; width: 340px; } }
 
 .logo-dark, .is-transparent:not(.has-fixed) .logo-light, .is-dark .logo-light { display: block; }
 
