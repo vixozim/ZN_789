@@ -5513,7 +5513,7 @@ ul.progress-info { display: flex; justify-content: space-between; }
 
 .token-stage-date span { font-size: 15px; }
 
-.token-stage-info { border: 1px solid rgba(209, 224, 246, 0.7); border-top: none; border-radius: 0 0 6px 6px; padding: 14px 0 16px; }
+.token-stage-info { border: 1px solid rgba(209, 224, 246, 0.7); border-top: none; border-radius: 0 0 6px 6px; padding: 14px 16px 16px; }
 
 .tc-light .token-stage-info { border-color: rgba(255, 255, 255, 0.1); }
 
