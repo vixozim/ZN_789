@@ -559,7 +559,7 @@ h6, .h6, .fz-6 { font-size: 0.94rem; }
 .bg-grad-vr-theme-dark-to-dark-alt { background-image: linear-gradient(to bottom, #15257b 0%, #1b30a4 100%) !important; }
 
 .bg-grad-vr-alt-to-theme { background-image: linear-gradient(to top, #1b30a4 0%, #0d42b2 100%) !important; }
-.bg-grad-vr-alt-to-theme-amarillo { background-image: linear-gradient(to top, #FED700 0%, #0270AF 100%) !important; }
+.bg-grad-vr-alt-to-theme-amarillo { background-image: linear-gradient(to top, #FED700 0%, #1B30A4 100%) !important; }
 
 .bg-grad-vr-dark-alt-to-theme-dark-to-theme { background-image: linear-gradient(to top, #15257b 0%, #1b30a4 100%) !important; }
 
@@ -7131,8 +7131,8 @@ ul.progress-info { display: flex; justify-content: space-between; }
   .section-b-m, .section-m { padding-bottom: 90px !important; } }
 
 @media (min-width: 992px) { .section-connect:before { height: 160px; }
-  .section-t, .section { padding-top: 120px; }
-  .section-b, .section { padding-bottom: 120px; }
+  .section-t, .section { padding-top: 70px; }
+  .section-b, .section { padding-bottom: 70px; }
   .section-t-l, .section-l { padding-top: 120px !important; }
   .section-b-l, .section-l { padding-bottom: 120px !important; }
   .section-t-xl { padding-top: 180px !important; } }
