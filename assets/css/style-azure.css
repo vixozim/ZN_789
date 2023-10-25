@@ -6331,7 +6331,7 @@ ul.progress-info { display: flex; justify-content: space-between; }
   .chart-canvas { min-height: 300px; }
   .chart-canvas-s1 { min-height: 215px; } }
 
-.ath-container { width: 440px; max-width: 100%; margin: 30px auto; }
+.ath-container { width: 600px; max-width: 100%; margin: 30px auto; }
 
 .ath-header { padding: 0 0 30px; }
 
@@ -6343,7 +6343,7 @@ ul.progress-info { display: flex; justify-content: space-between; }
 
 .ath-note { padding: 25px 0 0; }
 
-@media (min-width: 576px) { .ath-body { padding: 30px; } }
+@media (min-width: 576px) { .ath-body { padding: 0px; } }
 
 .sap-text { position: relative; text-align: center; padding: 20px 0; }
 
