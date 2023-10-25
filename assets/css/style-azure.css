@@ -6343,7 +6343,7 @@ ul.progress-info { display: flex; justify-content: space-between; }
 
 .ath-note { padding: 25px 0 0; }
 
-@media (min-width: 576px) { .ath-body { padding: 0px; } }
+@media (min-width: 576px) { .ath-body { padding: 0px; } } 
 
 .sap-text { position: relative; text-align: center; padding: 20px 0; }
 
