@@ -611,6 +611,7 @@ h6, .h6, .fz-6 { font-size: 0.94rem; }
 .bg-theme-grad-alternet { background-image: linear-gradient(to right, #1b30a4 0%, #2e007a 100%) !important; }
 
 .bg-theme-dark { background-color: #15257b !important; }
+.bg-theme-darkdark { background-color: #0d174e !important; }
 .bg-zonecta-dark { background-color: #0270AF !important; }
 .bg-zonecta-claro { background-color: #46C7F4 !important; }
 .bg-zonecta-claro-dg { background-image: linear-gradient(to bottom, #46C7F4 50%, #0270AF 100%) !important;  }
