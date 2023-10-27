@@ -550,7 +550,7 @@ h6, .h6, .fz-6 { font-size: 0.94rem; }
 
 .bg-grad-alt { background-image: linear-gradient(90deg, #41faa4 0%, #16a4fd 100%) !important; }
 
-.bg-grad-special { background-image: linear-gradient(140deg, #2e007a 0%, #2e007a 20%, transparent 50%, transparent 100%) !important; }
+.bg-grad-special { background-image: linear-gradient(140deg, #0D174E 0%, #0270AF 20%, transparent 50%, transparent 100%) !important; }
 
 .bg-grad-special-alt { background-image: linear-gradient(to top, #0d42b2 0%, #0d42b2 5%, rgba(0, 0, 0, 0) 40%, rgba(0, 0, 0, 0) 100%); }
 
