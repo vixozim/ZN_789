@@ -79,7 +79,7 @@ blockquote::after, blockquote::before, q::after, q::before { content: none; }
 
 table { border-collapse: collapse; border-spacing: 0; }
 
-h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { color: #1b30a4; font-weight: 600; font-family: "Poppins", sans-serif; line-height: 1.45; margin-bottom: 0.5rem; }
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { color: #0270af; font-weight: 600; font-family: "Poppins", sans-serif; line-height: 1.45; margin-bottom: 0.5rem; }
 
 h1:last-child, h2:last-child, h3:last-child, h4:last-child, h5:last-child, h6:last-child, .h1:last-child, .h2:last-child, .h3:last-child, .h4:last-child, .h5:last-child, .h6:last-child { margin-bottom: 0; }
 
@@ -2266,7 +2266,7 @@ hr { position: relative; z-index: 5; }
 
 .title-base { color: #637097; }
 
-.title a { color: #1b30a4; }
+.title a { color: #0270af; }
 
 .title a:hover { color: #16a4fd; }
 
