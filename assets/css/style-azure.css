@@ -5195,7 +5195,7 @@ ul.progress-info { display: flex; justify-content: space-between; }
 
 .tc-light .roadmap-title-s2 { color: rgba(255, 255, 255, 0.8); }
 
-.roadmap-title-s2:before { position: absolute; content: ''; left: -25px; top: 1px; transform: translate(-50%, 0); height: 15px; width: 15px; border-radius: 50%; background: #16a4fd; border: 1px solid #16a4fd; }
+.roadmap-title-s2:before { position: absolute; content: ''; left: -25px; top: 1px; transform: translate(-50%, 0); height: 15px; width: 15px; border-radius: 50%; background: #ffffff; border: 1px solid #ffffff; }
 
 .roadmap-done .roadmap-title-s2:before { height: 19px; width: 19px; font-family: "Font Awesome 5 Free"; content: '\f00c'; font-weight: 900; font-size: 9px; line-height: 18px; text-align: center; color: #39d884; background: #fff; }
 
@@ -5271,15 +5271,15 @@ ul.progress-info { display: flex; justify-content: space-between; }
 
 .roadmap-list { position: relative; padding-top: 15px; }
 
-.roadmap-list:after { position: absolute; left: 50%; bottom: 0; transform: translateX(-50%); width: 100vw; height: 1px; content: ''; background: #41faa4; }
+.roadmap-list:after { position: absolute; left: 50%; bottom: 0; transform: translateX(-50%); width: 100vw; height: 1px; content: ''; background: #0270AF; }
 
 .roadmap-innr { padding: 0 25px 30px; }
 
-.roadmap-innr:before { position: absolute; left: 0; height: 100%; width: 1px; content: ''; transform: translateX(-50%); background-image: linear-gradient(to bottom, #16a4fd 0%, #41faa4 100%); }
+.roadmap-innr:before { position: absolute; left: 0; height: 100%; width: 1px; content: ''; transform: translateX(-50%); background-image: linear-gradient(to bottom, #0270AF 0%, #0270AF 100%); }
 
 .roadmap-item { position: relative; }
 
-.roadmap-item:nth-child(even) .roadmap-innr:before { background-image: linear-gradient(to top, #16a4fd 0%, #41faa4 100%); }
+.roadmap-item:nth-child(even) .roadmap-innr:before { background-image: linear-gradient(to top, #16a4fd 0%, #0270AF 100%); }
 
 @media (max-width: 767px) { .roadmap-carousel-container { max-width: calc(100% - 90px); margin-right: auto; margin-left: auto; }
   .roadmap-carousel-nav-s2.roadmap-carousel-s2 .owl-nav { width: calc(100% + 10px); } }
