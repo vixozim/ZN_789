@@ -565,6 +565,7 @@ h6, .h6, .fz-6 { font-size: 0.94rem; }
 
 .bg-grad-vr-alt-to-theme { background-image: linear-gradient(to top, #1b30a4 0%, #0d42b2 100%) !important; }
 .bg-grad-vr-alt-to-theme-amarillo { background-image: linear-gradient(to top, #46C7F4 0%, #FED700 100%) !important; }
+.bg-grad-vr-alt-to-theme-verde { background-color: #4EAE7A !important; }
 
 .bg-grad-vr-dark-alt-to-theme-dark-to-theme { background-image: linear-gradient(to top, #15257b 0%, #1b30a4 100%) !important; }
 
