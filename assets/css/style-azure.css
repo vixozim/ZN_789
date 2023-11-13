@@ -127,6 +127,7 @@ h6, .h6, .fz-6 { font-size: 0.94rem; }
 
 .lead-regular { font-weight: 400; }
 
+
 .justify{text-align: justify;}
 
 @media (min-width: 576px) { h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { line-height: 1.3; }
@@ -568,6 +569,8 @@ h6, .h6, .fz-6 { font-size: 0.94rem; }
 .bg-grad-vr-alt-to-theme-verde { background-color: #4EAE7A !important; }
 
 .bg-grad-vr-dark-alt-to-theme-dark-to-theme { background-image: linear-gradient(to top, #15257b 0%, #1b30a4 100%) !important; }
+
+.bg-grad-vr-dark-alt-to-theme-dark-to-theme-zonecta { background-image: linear-gradient(to top, #15257b 0%, #46C7F4 100%) !important; }
 
 .bg-black { background-color: #000; }
 
